@@ -1,0 +1,1328 @@
+collection: SEGA Mega Drive Classics
+shortname: MD Classics
+extensions: SGD, 68K, smd, bin, pdf
+assets.box_front: arquivo.png
+
+###################################################
+game: Alex Kidd in the Enchanted Castle (U)
+file: ALEXKIDD_U.68K
+launch: blastem ALEXKIDD_U.68K
+description: The whole Kidd family is upset! Alex’s father, King Thor,
+    is missing, and they suspect he has been kidnapped by
+    Ashra, the mean ruler of the planet Paperock.\n
+    Alex speeds to Paperock to investigate, but the creatures of
+    Paperock decide to hinder his efforts and try to keep him away
+    from Sky Castle, Ashra’s hideaway. Luckily Alex knows how to
+    jump, punch and kick his way through the most stubborn of
+    enemies.
+assets.box_front: Alex Kidd in the Enchanted Castle (Europe).png
+assets.video: Alex Kidd in the Enchanted Castle (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Alex Kidd in the Enchanted Castle - (western) manual
+file: AK_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen AK_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Alien Soldier (E)
+file: AlienSoldier_Europe.SGD
+launch: blastem AlienSoldier_Europe.SGD
+description: The planet Sierra is being attacked by Scarlet, a terrorist
+    group lead by a vicious creature named Xi-Tiger who is
+    plotting to destroy the human race.\n
+    With vengeance, our hero Epsilon-Eagle will fight against Xi-Tiger
+    as well as the terrorist organization that he formerly led.
+assets.box_front: Alien Soldier (Europe).png
+assets.video: Alien Soldier (Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Alien Soldier - (western) manual
+file: 05 AS_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 05 AS_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Alien Storm (U)
+file: AlienStorm_USA.SGD
+launch: blastem AlienStorm_USA.SGD
+description: Vicious predators from the far ends of the universe are
+    invading our planet!\n
+    They’re mean and wicked, creating havoc everywhere they go!
+    Time for the aptly named “Alien Busters” to take control, get nasty
+    and kick some serious martian butt!
+assets.box_front: Alien Storm (World).png
+assets.video: Alien Storm (World).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Alien Storm - (western) manual
+file: AS_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen AS_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Altered Beast (UE)
+file: ALTEREDB_UE.68K
+launch: blastem ALTEREDB_UE.68K
+description: Athena, the daughter of Zeus, has been captured by the
+    wicked Neff, God of the Underworld, and is being held
+    captive.\n
+    Summoned from the dead by Zeus himself, it is up to you now
+    to clear five rounds of underlings before taking on Neff, in
+    what promises to be the most gruelling of challenges.
+assets.box_front: Altered Beast (Europe).png
+assets.video: Altered Beast (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Altered Beast - (western) manual
+file: AB_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen AB_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (E)
+file: BEYONDOA_E.68K
+launch: blastem BEYONDOA_E.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: Story of Thor, The (Europe).png
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImage.png
+
+game: Beyond Oasis/The Story of Thor: A Successor of the Light - (western) manual
+file: BO_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen BO_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (U)
+file: BEYONDOA_U.68K
+launch: blastem BEYONDOA_U.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: Beyond Oasis (USA).png
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (J)
+file: BEYONDOA_J.68K
+launch: blastem BEYONDOA_J.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: story-of-thor(J).jpg
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (G)
+file: BEYONDOA_G.68K
+launch: blastem BEYONDOA_G.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: story-of-thor(G).jpeg
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (F)
+file: BEYONDOA_F.68K
+launch: blastem BEYONDOA_F.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: Story of Thor, The (Europe).png
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Beyond Oasis/The Story of Thor: A Successor of the Light (S)
+file: BEYONDOA_S.68K
+launch: blastem BEYONDOA_S.68K
+description: Prince Ali has excavated a gold armlet which belonged to a
+    powerful sorcerer.\n
+    As soon as Ali tried on the armlet, a strange fire with a face
+    appeared and spoke to him.\n
+    “The power of the gold armlet is now your’s to wield. Find the four
+    spirits this gold armlet governs and stop the evil ambitions of the
+    one with the silver armlet.”
+assets.box_front: Story of Thor, The (Europe).png
+assets.video: Beyond Oasis (USA).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Bio-Hazard Battle (U)
+file: Crying_USA.SGD
+launch: blastem Crying_USA.SGD
+description: During the first global biowar, a powerful retrovirus filled
+    the planet Avaron with new and deadly forms of life. Only a
+    few survivors remain in O.P. Odysseus, an orbiting platform
+    circling Avaron.\n
+    Hundreds of years after the biowar, conditions on Avaron are still
+    hostile but livable. Your mission is to pilot a Bioship to Avaron,
+    fly over the areas that the probes have labeled least hostile, and
+    check out the conditions there.
+assets.box_front: Bio Hazard Battle (Europe).png
+assets.video: Bio Hazard Battle (USA, Europe).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Bio-Hazard Battle - (western) manual
+file: BH_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen BH_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Bonanza Bros. (JE)
+file: BONANZAB_JE.68K
+launch: blastem BONANZAB_JE.68K
+description: The Bonanza Bros., Mike and Spike, are two of the most
+    famous investigators around. One day, they received a
+    strange phone call.\n
+    The caller doesn’t reveal his name — he only asks the Bonanzas
+    to meet him at a special time and place. They hesitate at first, but
+    the caller’s last words stick in their minds. “I’m certain that this will
+    prove to be a very lucrative partnership...”\n
+    Mike and Spike arrive at the boarded-up front of what used to be
+    a grocery store. “He said we should go in,” says Mike, and in they
+    go, wondering just what’s going on.\n
+    “Yo! Anybody here?” shouts Spike into the darkness. Suddenly a sharp click
+    and  a flash of light send the Bonanzas diving for cover.\n
+    “It’s a set up!” they yell. They lift up their heads slowly to check the
+    room. The TV has been mysteriously
+    turned on, and a figure begins speaking to them.\n
+    “I can’t give you my name. I’ll just tell you that I’m a businessman with a
+    problem. Many of my properties have been targets for robbery recently. I
+    don’t know why they’ve been hit, but it’s become quite a costly situation. I
+    need the two of you, the renowned Bonanza Brothers, to test my security
+    forces. I have already had various items — money, papers and the like
+    — placed randomly in ten of my establishments. Your job is to retrieve
+    every single item. If you succeed, the reward will make Fort Knox look like
+    pocket change. Good luck...”\n
+    The figure fades out, and the Bonanzas stare at a screen full of static.
+    “Ya think this guy’s on the up an’ up?”
+    Mike asks his brother, “I’ll tell ya what.” Spike replies, “We’re sure
+    gonna find out!”
+assets.box_front: Bonanza Bros. (World).png
+assets.video: Bonanza Brothers (USA, Korea).mp4
+assets.background: PS4SessionImage.png
+
+game: Bonanza Bros. - (western) manual
+file: BB_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen BB_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Columns (W)
+file: COLUMNS_W.68K
+launch: blastem COLUMNS_W.68K
+description: Go back in time to a bygone civilization: the ancient world
+    of Phoenicia. There you will play a simple and captivating
+    game where sparkling, rainbow-coloured jewels drop one
+    after another.\n
+    According to the ancient merchants, by arranging three or more
+    of the same jewels horizontally, vertically or diagonally, you shall
+    perform miracles.
+assets.box_front: Columns (World).png
+assets.video: Columns (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Columns - (western) manual
+file: COLUMNS_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen COLUMNS_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Columns III: Revenge of Columns (U)
+file: Columns3_USA.SGD
+launch: blastem Columns3_USA.SGD
+description: Arrange the blocks of jewels falling from the top of the screen.\n
+    If three or more jewels of the same colour are lined up vertically,
+    horizontally, or diagonally, they disappear. Don’t allow them to pile
+    up to the top, or you will lose the game.
+assets.box_front: Columns3box.png
+assets.video: Columns III - Revenge of Columns (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Columns III: Revenge of Columns - (western) manual
+file: COL3_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen COL3_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Comix Zone (U)
+file: COMIXZON_U.68K
+launch: blastem COMIXZON_U.68K
+description: Sketch Turner is in it up to his inkwell. Mortus is drawing
+    horrendous creatures to battle Sketch in every panel of the strip.\n
+    If Mortus destroys Sketch, that megalomaniac mutant will become real
+    and Earth will be doomed to his rule!\n
+    But there is hope. Now that he’s a comic book superhero, Sketch
+    can kick some serious butt. Instantly, Sketch can fight like a one-man
+    mercenary platoon!
+assets.box_front: Comix Zone (Europe).png
+assets.video: Comix Zone (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Comix Zone - (western) manual
+file: CZ_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen CZ_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Crack Down (U)
+file: CrackDown_USA.SGD
+launch: blastem CrackDown_USA.SGD
+description: Ben and Andy, the two top Special Service agents have
+    accepted a very dangerous assignment – the elimination of
+    Mr.K and his Artificial Life System.\n
+    Mr. K plans to rid the earth of human life forms using the killer
+    robots he’s created, and no one but Ben and Andy can stop him!
+    Help them to infiltrate the chilling futuristic city, place Clystron
+    bombs and get out before they blow.
+assets.box_front: Crack Down (Japan, Europe).png
+assets.video: Crack Down (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Crack Down - (western) manual
+file: CD_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen CD_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: DEcap Attack Starring Chuck D. Head (UE)
+file: DECAP_UE.68K
+launch: blastem DECAP_UE.68K
+description: To help “pull things together,” the brilliant doctor Frank N.
+    Stein carefully fashioned Chuck D. Head from the leftover
+    parts of some other people that we don’t talk about.\n
+    Somehow he couldn’t quite get the head right – how many heads
+    do people need again? Head bone connects to the... what bone?
+    Well, to cut a long story short, there’s this island which is made up
+    of body parts (like they are sometimes), and the fearsome villain
+    Max D. Cap has separated all the parts to gain total control. It’s
+    now up to Chuck D. Head to go over there, and sort it all out.
+assets.box_front: DEcapAttack (Europe).png
+assets.video: DecapAttack (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: DEcap Attack Starring Chuck D. Head - (western) manual
+file: DA_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen DA_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Dr. Robotnik's Mean Bean Machine (U)
+file: ROBOTNIK_U.68K
+launch: blastem ROBOTNIK_U.68K
+description: Dr. Robotnik is changing the jolly folk of Beanville into
+    devious little robots that will help rid Planet Mobius of
+    music and fun forever.\n
+    Group the beans together to help them escape, and compete
+    against Robotnik’s wily henchbots!
+assets.box_front: Dr. Robotnik's Mean Bean Machine (USA).png
+assets.video: Dr. Robotnik's Mean Bean Machine (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Dr. Robotnik's Mean Bean Machine - (western) manual
+file: DRMBM_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen DRMBM_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Dynamite Headdy (UE)
+file: DYNAHEAD_UE.68K
+launch: blastem DYNAHEAD_UE.68K
+description: Treasure Theatre presents an action-packed puppet show
+    starring Dynamite Headdy, the guy with the coolest head on stage.\n
+    But trouble lurks backstage with his stage rival Trouble Bruin, and
+    an evil doll named Dark Demon who is plotting to rule the puppet
+    world. It’s up to Dynamite Headdy to defeat Dark Demon, but first
+    he must put away the Key Masters who serve as Dark Demon’s elite guards.
+assets.box_front: Dynamite Headdy (Europe).png
+assets.video: Dynamite Headdy (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Dynamite Headdy - (western) manual
+file: DH_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen DH_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Dynamite Headdy (J)
+file: DYNAHEAD_J.68K
+launch: blastem DYNAHEAD_J.68K
+description: Treasure Theatre presents an action-packed puppet show
+    starring Dynamite Headdy, the guy with the coolest head on stage.\n
+    But trouble lurks backstage with his stage rival Trouble Bruin, and
+    an evil doll named Dark Demon who is plotting to rule the puppet
+    world. It’s up to Dynamite Headdy to defeat Dark Demon, but first
+    he must put away the Key Masters who serve as Dark Demon’s elite guards.
+assets.box_front: Dynamite Headdy (J).png
+assets.video: Dynamite Headdy (Japan) (Translated En).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Ecco the Dolphin (UE)
+file: ECCO_UE.68K
+launch: blastem ECCO_UE.68K
+description: Life was an adventure for Ecco, the young dolphin. The
+    ocean seemed endless with rolling breakers to race through!\n
+    At high speed Ecco could burst through the waves leaping
+    through the air – almost flying!\n
+    Until one day, all of that changed. A freak whirlpool of air and
+    water tore the life from Ecco’s home leaving Ecco all alone. Now
+    he must fight to stay alive, while traversing the vast ocean in
+    search of clues that will help him save his family and return them
+    to the bay.
+assets.box_front: Ecco the Dolphin (Europe).png
+assets.video: Ecco the Dolphin (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Ecco the Dolphin - (western) manual
+file: ETD_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen ETD_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Ecco: the Tides of Time (U)
+file: ECCO2_U.68K
+launch: blastem ECCO2_U.68K
+description: The Vortex, the nearly invincible, secret, yet supremely
+    dangerous enemy, now seems so far away.\n
+    It’s only been a short time since this monster tore Ecco’s family
+    from Home Bay. Then Ecco braved the unknown waters to find
+    and defeat this menace that fed on the creatures of the sea.\n
+    The Vortex Queen, though weakened, was not destroyed. She
+    followed Ecco from her hive in deep space back to this new,
+    nourishing planet. Now, plunging into the warm waters of Earth,
+    she seeks out a deep chasm and sinks into the abyss, where she
+    feeds upon the Earth as she spawns streams of Vortex young.\n
+    Her feeding builds in strength, creating a downward current against 
+    which small fish struggle in vain. She is creating a new Vortex race,
+    and her presence on Earth bodes doom for all its creatures!\n
+    Ecco must rid the world of this engulfing evil. Even as he tumbles in
+    the waves, the future is unfolding. But must it be a dark future ruled
+    by the Vortex and – lifeless, miserable and cold? Does Earth stand a chance?
+assets.box_front: Ecco - The Tides of Time (Europe).png
+assets.video: Ecco - The Tides of Time (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Ecco: the Tides of Time - (western) manual
+file: ECCO2_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen ECCO2_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Ecco Jr. (U)
+file: eccojr.smd
+launch: blastem eccojr.smd
+description: Somewhere there is a place called the Endless Sea. There
+    lives a giant whale named Big Blue.\n
+    To find Big Blue, you have to open the Crystal Doors called
+    Glyphs. To open the Crystal Doors, you must satisfy their wish.
+    Guide Ecco and his friends to swim through the ocean and find
+    Big Blue.
+assets.box_front: ecco-jr.png
+assets.video: Ecco Jr. (USA, Australia).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Ecco Jr. - (western) manual
+file: EJ_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen EJ_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: ESWAT: City Under Siege (U)
+file: ESWAT_U.68K
+launch: blastem ESWAT_U.68K
+description: The largest and most powerful terrorist group in the world,
+    known as E.Y.E., is looking to take total control of Earth!\n
+    Join the government controlled group of troopers, ESWAT
+    (Enhanced Special Weapons And Tactics), and eliminate the terrorists!
+assets.box_front: ESWAT - City Under Siege (Europe).png
+assets.video: ESWAT - City Under Siege (USA, Europe).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: ESWAT: City Under Siege - (western) manual
+file: ESWAT_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen ESWAT_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Eternal Champions (U)
+file: EternalChampions_USA.SGD
+launch: blastem EternalChampions_USA.SGD
+description: Unjust deaths were dealt upon nine of history’s greatest
+    and most influential warriors, and the future now stands at
+    the brink of chaos.\n
+    The Eternal Champion has summoned the souls of the nine
+    and placed them in competition. The winner will be rewarded
+    a second chance to prevent their own death, and in doing so
+    restore balance to a desperate world.
+assets.box_front: Eternal Champions (Europe).png
+assets.video: Eternal Champions (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Eternal Champions - (western) manual
+file: EC_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen EC_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Fatal Labyrinth (JU)
+file: FATALLAB_JU.68K
+launch: blastem FATALLAB_JU.68K
+description: Dragonia, the castle of doom, has been resurrected! But
+    the ghouls from the castle have stolen the Holy Goblet,
+    the source of light. Without it, the world will be trapped in
+    darkness forever.\n
+    A courageous fellow, Trykaar, volunteers to retrieve the Holy
+    Goblet. The people from his village wish him luck as he heads out
+    to Dragonia. After a treacherous hike through the forest, he arrives
+    at the gate of the towering castle. As he enters the gigantic gate,
+    he finds himself in a labyrinth of countless chambers.\n
+    Can Trykaar survive thirty floors of mayhem and recover the Holy
+    Goblet? His fate is in your hands! Don your armour and pick up your
+    weapon. You’ll puncture green globs, break up ice bars and make dark
+    ninjas and deadly hellfrogs vanish with your magic. You must also evade
+    traps and break down walls to discover shortcuts.\n
+    The village is anxiously awaiting the return of the Holy Goblet — and you!
+assets.box_front: Fatal Labyrinth (Europe).png
+assets.video: Fatal Labyrinth (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Fatal Labyrinth - (western) manual
+file: FL_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen FL_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+ 
+###################################################
+game: Flicky (UE)
+file: FLICKY_UE.68K
+launch: blastem FLICKY_UE.68K
+description: Join the adventures of FlickyTM, a fun-loving, little blue bird
+    who drives cats everywhere crazy!\n
+    As a heroic bird, find all of the missing Chirps and guide them to
+    the “Exit” where they’ll be safe from those mischievous felines and
+    other ferocious domesticated animals in the house.
+assets.box_front: Flicky (Europe).png
+assets.video: Flicky (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Flicky - (western) manual
+file: FLICKY_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen FLICKY_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+  
+###################################################
+game: Gain Ground (UE)
+file: GAING_UE.68K
+launch: blastem GAING_UE.68K
+description: The battle-simulation game has gone haywire!\n
+    All contestants inside the system are trapped and frozen on the
+    battlefields, and the androids are reprogrammed to become
+    hi-tech killing machines! It’s up to three brave fighters to rescue
+    hostages, and to destroy the central computer of the system, the Brain.
+assets.box_front: Gain Ground (World).png
+assets.video: Gain Ground (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Gain Ground - (western) manual
+file: GG_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen GG_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+   
+###################################################
+game: Galaxy  Force II (UE)
+file: GalaxyForceII_UE.SGD
+launch: blastem GalaxyForceII_UE.SGD
+description: The peaceful and prosperous solar system Junos was located at 
+    the end of the Milky Way. Those who called its five planets home had no
+    idea what was about to happen...\n
+    Halcyon, ruler of the Fourth Empire, had Junos marked as its final target
+    in the galactic massacre, and had sent the bulk of his attacking force in
+    with a single purpose – the elimination of all life forms in the system, and
+    the construction of a gigantic fortress on each of the five planets from
+    which to rule the galaxy.\n
+    The galaxy’s recognised governing body, the Space Federation, began
+    recruiting attack pilots in an effort to reclaim Junos. Strap yourself
+    into your TRX-5 Quasar and turn the tables on Halcyon.
+assets.box_front: Galaxy Force II (World).png
+assets.video: Galaxy Force II (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Galaxy  Force II - (western) manual
+file: GF2_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen GF2_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+    
+###################################################
+game: Golden Axe (W)
+file: GAXE_W.68K
+launch: blastem GAXE_W.68K
+description: The land of Yuria has been invaded and is now ruled by the
+    iron fist of Death Adder, who secured his throne by seizing the Golden Axe.\n
+    Three brave warriors now rise to the challenge of defeating Death
+    Adder and his soldiers and returning peace to the Kingdom.
+assets.box_front: Golden Axe (World).png
+assets.video: Golden Axe (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Golden Axe - (western) manual
+file: GA_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen GA_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+     
+###################################################
+game: Golden Axe II (W)
+file: GAXE2_W.68K
+launch: blastem GAXE2_W.68K
+description: The Lord of Darkness, Dark Guld, has arisen again.
+    Wielding the famous Golden Axe, he has destroyed entire
+    countries with his evil clan, forcing the world into chaos.\n
+    Once again, three brave warriors stand up to face the oppressors,
+    and won’t rest until the Golden Axe is returned to its rightful place.
+assets.box_front: Golden Axe II (World).png
+assets.video: Golden Axe II (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Golden Axe II - (western) manual
+file: GA2_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen GA2_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Golden Axe III (J)
+file: GAXE3_J.68K
+launch: blastem GAXE3_J.68K
+description: Chaos is spreading across the land once again as the
+    Prince of Darkness arises to conquer the world.\n
+    To stop him and retrieve the legendary Golden Axe, four heroes
+    step forward to accept the challenge.
+assets.box_front: GA3-box.png
+assets.video: Golden Axe III (Japan).mp4
+assets.background: PS4SessionImage.png
+
+game: Golden Axe III - (western) manual
+file: GAIII_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen GAIII_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Gunstar  Heroes (U)
+file: Gunstar Heroes U.bin
+launch: blastem Gunstar Heroes U.bin
+description: The Gunstar family are the protectors of the planet Gunstar 9.\n
+    After many years of peace, vicious dictator Colonel Red
+    kidnapped the Gunstar twins’ older brother and used mind
+    control to make him his slave. Now, with the aid of the Mystical
+    Gems, he’s threatening to release Golden Silver the Destructor
+    from the Gunstar 9 moon, with apocalyptic consequences!
+assets.box_front: Gunstar Heroes (Europe).png
+assets.video: Gunstar Heroes (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Gunstar  Heroes - (western) manual
+file: 07 GH_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 07 GH_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Kid Chameleon (UE)
+file: KIDCHAM_UE.68K
+launch: blastem KIDCHAM_UE.68K
+description: Heady Metal, the boss of the arcade game Wild Side, has
+    escaped! He’s capturing kids by defeating them at their own game.\n
+    Take Kid Chameleon into Wild Side and give Heady Metal and his
+    gruesome underlings a taste of their own aspirin. Because Kid
+    Chameleon is about to cause a few headaches of his own!
+assets.box_front: Kid Chameleon (USA, Europe).png
+assets.video: Kid Chameleon (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Kid Chameleon - (western) manual
+file: KC_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen KC_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: LANDSTALKER: The Treasures of King Nole (U)
+file: LandStalker_USA.SGD
+launch: blastem LandStalker_USA.SGD
+description: You are Nigel, an elf and treasure hunter extraordinaire.\n
+    Assisted by his new partner Friday, Nigel will travel to a distant
+    island in a search of a legendary treasure.
+assets.box_front: Landstalker (USA).png
+assets.video: Landstalker (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: LANDSTALKER: The Treasures of King Nole - (western) manual
+file: 01 LS_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 01 LS_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Light Crusader (U)
+file: LightCrusader_USA.SGD
+launch: blastem LightCrusader_USA.SGD
+description: I am David Lander, swordsman in the service of the great
+    King Frederick of Whitewood.\n
+    A few days ago, I was sent by my lord to an audience with King
+    Weeden of this land of Green Row. Trembling, King Weeden
+    informed me that his townspeople have been disappearing daily.
+    Neither the astrological charts nor even the king’s own oracle
+    can explain. Green Row has always been a safe and charming
+    land. Not any longer. I must find out what is happening to King
+    Weeden’s people, and return them.
+assets.box_front: Light Crusader (USA).png
+assets.video: Light Crusader (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Light Crusader - (western) manual
+file: 06 LC_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 06 LC_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Phantasy Star II (UE)
+file: PhantasyStar2_UE_GreenCrossFix.SGD
+launch: blastem PhantasyStar2_UE_GreenCrossFix.SGD
+description: Moto, a once peaceful tropical paradise and the shining
+    jewel of the Algo Star System, is facing terrible oppression
+    at the hands of an unknown evil.\n
+    Strange, vicious creatures infest the countryside and people are
+    afraid to leave their villages. It’s up to you to uncover the mystery
+    behind these grim circumstances and help restore Moto to its
+    former splendor.
+assets.box_front: Phantasy Star II (USA, Europe).png
+assets.video: Phantasy Star II (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Phantasy Star II - (western) manual
+file: PSII_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen PSII_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Phantasy Star III (UE)
+file: PhantasyStar3_USA.SGD
+launch: blastem PhantasyStar3_USA.SGD
+description: Just as you’re about to marry Maia, the mysterious woman
+    you found on the shore, a winged dragon grabs her and disappears.\n
+    This is the tragic start of what seems like a never-ending journey
+    into a world of loathsome creatures and wicked souls that spans
+    three generations.
+assets.box_front: Phantasy Star III - Generations of Doom (USA, Europe).png
+assets.video: Phantasy Star III - Generations of Doom (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Phantasy Star III - (western) manual
+file: PSIII_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen PSIII_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Phantasy Star IV (U)
+file: PhantasyStar4.SGD
+launch: blastem PhantasyStar4.SGD
+description: In the year AW 2284, planet Motavia is once again plagued
+    by strange bio-creatures, and it’s up to the brave men and
+    women of the Hunters Guild to exterminate them.\n
+    You are Chaz Ashely, a rookie Hunter straight out of training who
+    is supported by Alys Brangwin – a crafty veteran whose good
+    looks and prowess with the blade have earned her an awesome
+    reputation. The two Hunters along with a cast of supporting
+    characters will go beyond Motavia to unwittingly save their entire
+    solar system.
+assets.box_front: Phantasy Star IV (USA).png
+assets.video: Phantasy Star IV (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Phantasy Star IV - (western) manual
+file: PSIV_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen PSIV_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Ristar (UE)
+file: RISTAR_UE.68K
+launch: blastem RISTAR_UE.68K
+description: The evil tyrant Greedy holds the galaxy of Valdi under a
+    reign of terror, spreading misery and darkness.\n
+    But from the depths of space comes Ristar, a shining shooting
+    star who is destined for greatness. Only his special powers can
+    restore happiness to the solar system once again.
+assets.box_front: Ristar (USA, Europe).png
+assets.video: Ristar (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Ristar - (western) manual
+file: RISTAR_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen RISTAR_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: SHADOW DANCER: The Secret of Shinobi (W)
+file: ShadowDancer.SGD
+launch: blastem ShadowDancer.SGD
+description: New York City has fallen into the hands of a group of ninja
+    warriors called Union Lizard, and they have taken people hostage.\n
+    Kato, Joe Musashi’s former martial arts student, has been
+    mortally wounded while investigating Union Lizard, leaving his
+    faithful dog Yamato. Joe Musashi swore to avenge Kato’s death,
+    and headed for New York. Can you guide Joe Musashi and
+    Yamato through the ring of fire and triumph over this evil force?
+assets.box_front: Shadow Dancer - The Secret of Shinobi (World).png
+assets.video: Shadow Dancer - The Secret of Shinobi (World).mp4
+assets.background: PS4SessionImage.png
+
+game: SHADOW DANCER: The Secret of Shinobi - (western) manual
+file: SD_MG_EFIGS_US.pdf
+launch: evince --fullscreen SD_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Shining in the Darkness (UE)
+file: SHININGD_UE.68K
+launch: blastem SHININGD_UE.68K
+description: Princess Jessa, along with the loyal knight Mortred, has
+    gone missing in the vicinity of the Labyrinth.\n
+    King Drake and his aides have no clue as to where she is. As
+    Mortred’s son, join forces with Milo and Pyra in a quest to find the
+    princess.
+assets.box_front: Shining in the Darkness (USA, Europe).png
+assets.video: Shining in the Darkness (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Shining in the Darkness - (western) manual
+file: 10 SD_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 10 SD_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Shining Force (U)
+file: SHININGF_U.68K
+launch: blastem SHININGF_U.68K
+description: As a student of Astral the wizard, you and your friends
+    study all the usual subjects: reading, writing, and sword fighting.\n
+    As your time at school draws to an end, dark events are taking
+    place on the island of Grans. The two Jewels which seal the Door
+    to Darkness have been stolen, allowing a creature of awesome
+    power to be unleashed. Finding where the Jewels were taken,
+    and why, is a task only the bravest of adventurers can undertake.
+assets.box_front: Shining Force (USA).png
+assets.video: Shining Force (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Shining Force - (western) manual
+file: 02 SF_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 02 SF_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Shining Force II (U)
+file: SHINING2_U.68K
+launch: blastem SHINING2_U.68K
+description: As a student of Astral the wizard, you and your friends
+    study all the usual subjects: reading, writing, and sword fighting.\n
+    As your time at school draws to an end, dark events are taking
+    place on the island of Grans. The two Jewels which seal the Door
+    to Darkness have been stolen, allowing a creature of awesome
+    power to be unleashed. Finding where the Jewels were taken,
+    and why, is a task only the bravest of adventurers can undertake.
+assets.box_front: Shining Force II (USA).png
+assets.video: Shining Force II (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Shining Force II - (western) manual
+file: 09 SF2_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 09 SF2_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Shinobi III: Return of the Ninja Master (U)
+file: SHINOBI3_U.68K
+launch: blastem SHINOBI3_U.68K
+description: Joe Musashi’s sworn enemy, the Neo Zeed are secretly
+    rebuilding an organization in Japan after the battle in Neo City.\n
+    Joe (code name Shinobi) senses the evil power growing and
+    starts to make his way back to fight the Neo Zeed once again.
+assets.box_front: Shinobi III - Return of the Ninja Master (USA).png
+assets.video: Shinobi III - Return of the Ninja Master (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Shinobi III: Return of the Ninja Master - (western) manual
+file: SH3_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen SH3_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Sonic 3D Blast/Sonic 3D Flickies' Island (UE)
+file: SONIC3D_UE.68K
+launch: blastem SONIC3D_UE.68K
+description: Dr. Eggman (AKA Dr. Robotnik) discovers unusual birds
+    known as Flickies that can transport to anywhere using
+    Dimension Rings.\n
+    Successfully capturing the Flickies, Robotnik turns them all
+    into robots to help him find the Chaos Emeralds. Sonic must save
+    the Flickies by freeing them from their robotic prison and prevent
+    Robotnik from finding the Chaos Emeralds.
+assets.box_front: Sonic 3D Blast (USA, Europe).png
+assets.video: Sonic 3D Blast (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Sonic 3D Blast/Sonic 3D Flickies' Island - (western) manual
+file: S3DB_MG_EFIGS_US.pdf
+launch: evince --fullscreen S3DB_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Sonic Spinball (U)
+file: SONICSPI_U.68K
+launch: blastem SONICSPI_U.68K
+description: Dr. Eggman (AKA Dr. Robotnik) is once again turning
+    the animals of Mobius into robots using his monstrous
+    contraption, the Veg-O-Fortress.\n
+    Only Sonic can penetrate the Pinball Defense System to free the
+    animals, retrieve the Chaos Emeralds, and put a stop to
+    Dr. Eggman’s fiendish plans!
+assets.box_front: Sonic Spinball (USA).png
+assets.video: Sonic Spinball (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Sonic Spinball - (western) manual
+file: SS_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen SS_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Space Harrier II (W)
+file: SPACEHARRIERII.bin
+launch: blastem SPACEHARRIERII.bin
+description: Harrier once again receives a call for help, this time from the
+    214th sector, light-years from his cruiser. Harrier travels there quickly
+    with his "cosmic gate", and finds that Fantasy Land is once again being
+    overrun by hostile forces. He resolves to once again save a world by
+    fighting off the entire force himself.
+assets.box_front: Space Harrier II (World).png
+assets.video: Space Harrier II (World).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Streets of Rage/Bare Knuckle (W)
+file: STREETS_W.68K
+launch: blastem STREETS_W.68K
+description: What was once a happy, peaceful, productive city, has
+fallen into the hands of a secret criminal syndicate.\n
+    Looting, random violence and destruction are rampant. Nobody
+    is safe. Despite repeated refusals by their superiors, three young
+    police officers were determined to tackle the problem head on.
+    Eventually they created a special attack unit the only way they
+    could – they quit the force. Take control of one of the three
+    ex-officers and make the city a place where people no longer
+    have to walk the Streets of Rage!
+assets.box_front: Streets of Rage (World).png
+assets.video: Streets of Rage (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Streets of Rage/Bare Knuckle - (western) manual
+file: 08 SOR1_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 08 SOR1_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Streets of Rage 2/Bare Knuckle II (U)
+file: STREETS2_U.68K
+launch: blastem STREETS2_U.68K
+description: Mr. X and the Syndicate are back, this time taking Adam hostage!\n
+    Take on the role of Axel, Blaze, Skate, or Max to rescue Adam,
+    and destroy Mr. X once and for all.
+assets.box_front: Streets of Rage 2 (USA).png
+assets.video: Streets of Rage 2 (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Streets of Rage 2/Bare Knuckle II - (western) manual
+file: 04 SOR2_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 04 SOR2_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Streets of Rage 3/Bare Knuckle III (E)
+file: STREETS3_E.68K
+launch: blastem STREETS3_E.68K
+description: The mysterious crime boss Mr. X has enlisted the help
+    of Dr. Dahm in creating lifelike robots to replace key city
+    officials, and soon will be able to run the entire city by
+    remote control.\n
+    Strategically placed bombs are being used to distract the city
+    police while Mr. X deals with the city leaders one by one. Now it’s
+    up to our four heroes, Blaze, Axel, Skate and Zan to prevent a
+    catastrophe from unfolding.
+assets.box_front: Streets of Rage 3 (Europe).png
+assets.video: Streets of Rage 3 (USA).mp4
+assets.background: PS4SessionImage.png
+
+game: Streets of Rage 3/Bare Knuckle III - (western) manual
+file: SoR3_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen SoR3_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Streets of Rage 3/Bare Knuckle III (U)
+file: STREETS3_U.68K
+launch: blastem STREETS3_U.68K
+description: The mysterious crime boss Mr. X has enlisted the help
+    of Dr. Dahm in creating lifelike robots to replace key city
+    officials, and soon will be able to run the entire city by
+    remote control.\n
+    Strategically placed bombs are being used to distract the city
+    police while Mr. X deals with the city leaders one by one. Now it’s
+    up to our four heroes, Blaze, Axel, Skate and Zan to prevent a
+    catastrophe from unfolding.
+assets.box_front: Streets of Rage 3 (USA).png
+assets.video: Streets of Rage 3 (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+###################################################
+game: Streets of Rage 3/Bare Knuckle III (J)
+file: STREETS3_J.68K
+launch: blastem STREETS3_J.68K
+description: The mysterious crime boss Mr. X has enlisted the help
+    of Dr. Dahm in creating lifelike robots to replace key city
+    officials, and soon will be able to run the entire city by
+    remote control.\n
+    Strategically placed bombs are being used to distract the city
+    police while Mr. X deals with the city leaders one by one. Now it’s
+    up to our four heroes, Blaze, Axel, Skate and Zan to prevent a
+    catastrophe from unfolding.
+assets.box_front: Streets of Rage 3 (J).png
+assets.video: Streets of Rage 3 (USA).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Super Thunder Blade (W)
+file: STHUNDER_W.68K
+launch: blastem STHUNDER_W.68K
+description: A renegade army has focused its sights on domination of
+    the free world, and has unleashed its deadly troops from a
+    secret power base in the East.\n
+    Use the state of the art defense system at your fingertips - the
+    Super Thunder Blade armed with 20mm Vulcan Cannons and
+    AATM missiles - to find the central enemy base and blow it sky
+    high. The fate of the free world is in your hands!
+assets.box_front: Super Thunder Blade (World).png
+assets.video: Super Thunder Blade (World).mp4
+assets.background: PS4SessionImage.png
+
+game: Super Thunder Blade - (western) manual
+file: STB_PC_MG_EFIGS_US_150ppi.pdf
+launch: evince --fullscreen STB_PC_MG_EFIGS_US_150ppi.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Sword of Vermilion (UE)
+file: sov.smd
+launch: blastem sov.smd
+description: To take revenge against Tsarkon over his father’s death,
+    the prince must collect the eight Rings of Good hidden
+    throughout the land.\n
+    Out-hack and out-smart Tsarkon’s minions while collecting the
+    hidden Rings until you reach the final bastion where Tsarkon
+    waits. Defeat Tsarkon and banish evil from the world.
+assets.box_front: Sword of Vermilion (USA, Europe).png
+assets.video: Sword of Vermilion (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Sword of Vermilion - (western) manual
+file: SV_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen SV_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: The Revenge of Shinobi (JUE)
+file: TheSuperShinobi_JUE.SGD
+launch: blastem TheSuperShinobi_JUE.SGD
+description: After being reduced to rubble by Joe Musashi, the crime
+    syndicate “Zeed” has made a vengeful return as “Neo Zeed”.\n
+    Upon re-establishing their mighty crime empire, they assassinated
+    Musashi’s teacher, and kidnapped Naoko, Musashi’s fiancée. Joe
+    Musashi has sworn revenge and set out for the heart of “Neo Zeed”.
+assets.box_front: Revenge of Shinobi, The (Europe).png
+assets.video: Revenge of Shinobi, The (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: The Revenge of Shinobi - (western) manual
+file: TRoS_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen TRoS_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: ToeJam & Earl (W)
+file: ToeJamEarl.SGD
+launch: blastem ToeJamEarl.SGD
+description: ToeJam & EarlTM are both highly funky aliens from the
+    planet Funkotron. Recently they ran into a slight problem...\n
+    They were cruising in their highly funky, ultra cool, righteous
+    rapmaster rocketship when Earl said he’d like a shot at driving. To
+    cut a long story short, the rocketship is now in pieces spread over
+    the most insane planet in the galaxy – planet Earth!\n
+    All they have to do now is find the ten pieces of their rocketship
+    and they’re on their way. Doesn’t sound so hard does it?
+assets.box_front: ToeJam & Earl (World).png
+assets.video: ToeJam & Earl (World).mp4
+assets.background: PS4SessionImage.png
+
+game: ToeJam & Earl - (western) manual
+file: 11 TJE1_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 11 TJE1_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: ToeJam & Earl in Panic on Funkotron (W)
+file: ToeJamEarl2_USA.SGD
+launch: blastem ToeJamEarl2_USA.SGD
+description: The peaceful planet of Funkotron has been invaded by...
+    Earthlings, of all people! They are scaring and annoying the inhabitants.\n
+    Control ToeJam & EarlTM to capture all Earthlings and send them
+    back to the planet Earth!
+assets.box_front: ToeJam & Earl in Panic on Funkotron (Europe).png
+assets.video: ToeJam & Earl in Panic on Funkotron (USA).mp4
+assets.background: PS4SessionImage.png
+
+game: ToeJam & Earl in Panic on Funkotron - (western) manual
+file: 12 TJ2_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 12 TJ2_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Vectorman (UE)
+file: VECTMAN_UE.68K
+launch: blastem VECTMAN_UE.68K
+description: By the year 2049, Earth has been turned into a toxic waste
+    dump. Humankind has fled into space leaving behind an army
+    of mechanized “Orbots” to clean up the mess.\n
+    But when the Orbot leader “WarHead” goes haywire and starts a
+    global revolt against the humans, it falls on the shoulders of the
+    last Orbot loyal to its human masters to save the planet.
+assets.box_front: Vectorman (Europe).png
+assets.video: Vectorman (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Vectorman - (western) manual
+file: VM_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen VM_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Vectorman 2 (U)
+file: VECTMAN2_U.68K
+launch: blastem VECTMAN2_U.68K
+description: A routine sludge barge excursion is cut short when a
+    mysterious missile critically damages VectorMan’s ship.\n
+    Vectorman escapes destruction and freefalls back to earth, landing
+    on the outskirts of a seemingly abandoned research facility. As
+    he begins to investigate the source of the missile, VectorMan
+    discovers a mutant strain of insects that have begun to flourish
+    in the research facility. Worse yet, the insects display destructive
+    tendencies towards the planet and seem to be run by an unseen
+    intelligence. VectorMan’s mission is clear: defeat the mutant insects
+    and once again save the Earth from impending disaster.
+assets.box_front: Vectorman 2 (USA).png
+assets.video: Vectorman 2 (USA).mp4
+assets.background: PS4SessionImageUsa.png
+
+game: Vectorman 2 - (western) manual
+file: VectorMan_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen VectorMan_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Genesis.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Virtua Fighter 2 (UE)
+file: VIRTUAFIGHTER2.bin
+launch: blastem VIRTUAFIGHTER2.bin
+description: One year has passed since eight of the toughest, fastest
+    fighters challenged each other in the World Fighting Tournament.\n
+    Now the call has come for the second World Fighting
+    Tournament. Who will emerge victorious this time?
+assets.box_front: Virtua Fighter 2 (USA, Europe).png
+assets.video: Virtua Fighter 2 (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Virtua Fighter 2 - (western) manual
+file: VF2_PC_MG_EFIGS_US.pdf
+launch: evince --fullscreen VF2_PC_MG_EFIGS_US.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Wonder Boy in Monster World (UE)
+file: MonsterWorld3_USA.SGD
+launch: blastem MonsterWorld3_USA.SGD
+description: Monsters have taken over the land, and every day the
+    citizens fear for their lives, hoping that a hero will step forth
+    and bring peace to the embattled country.
+assets.box_front: Wonder Boy in Monster World (USA, Europe).png
+assets.video: Wonder Boy in Monster World (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Wonder Boy in Monster World - (western) manual
+file: WB_PC_MG_EFIGS_WW_HR.pdf
+launch: evince --fullscreen WB_PC_MG_EFIGS_WW_HR.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Wonder Boy in Monster World (J)
+file: MonsterWorld3.SGD
+launch: blastem MonsterWorld3.SGD
+description: Monsters have taken over the land, and every day the
+    citizens fear for their lives, hoping that a hero will step forth
+    and bring peace to the embattled country.
+assets.box_front: Wonder Boy in Monster World (J).png
+assets.video: Wonder Boy in Monster World (USA, Europe).mp4
+assets.background: PS4SessionImage.png
+
+###################################################
+game: Wonder Boy III: Monster Lair (JUE)
+file: MonsterLair_JUE.SGD
+launch: blastem MonsterLair_JUE.SGD
+description: The monsters are attacking the quiet town of Xenobia.\n
+    Guide Leo and Priscilla to wipe out the monsters using the Legendary Weapons.
+assets.box_front: Wonder Boy III - Monster Lair (Japan, Europe).png
+assets.video: Wonder Boy III - Monster Lair (Japan, Europe).mp4
+assets.background: PS4SessionImage.png
+
+game: Wonder Boy III: Monster Lair - (western) manual
+file: 03 WB3ML_PC_MG_EFIGS_US_v6.pdf
+launch: evince --fullscreen 03 WB3ML_PC_MG_EFIGS_US_v6.pdf
+description: Will open Evince reader.
+assets.video: PS4_Trailer_Megadrive.mp4
+assets.background: PS4SessionImage.png
