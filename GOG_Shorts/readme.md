@@ -11,4 +11,5 @@ The usage is simple, but you should create a config file before using:
 - Keep the original installation structure and drag and drop the file names goggame-gameID.ico onto GOG_Shorts
 
 PS1: The most common path to the Galaxy client is "C:\Program Files (x86)\GOG Galaxy\GalaxyClient.exe"
+
 PS2: If there is no goggame-gameID.ico in the game folder, you have to create one
